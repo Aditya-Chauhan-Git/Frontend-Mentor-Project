@@ -21,14 +21,8 @@ The goal of this project was to practice **HTML, CSS, and responsive layouts** w
 
 ---
 
-## 🔧 Installation & Usage
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/Aditya-Chauhan-Git/Frontend-Mentor-Project.git
-   ```
-2. Recommended: Run a local development server (e.g., Vite or Live Server extension in VS Code) to view the project.
-   Some images and SVGs may not load properly if you open the HTML file directly in the browser.
-
+## 🔧 About
+- Go to  https://aditya-chauhan-git.github.io/Frontend-Mentor-Project/ to see the live preview
 ---
 
 ## 📱 Responsive Design
